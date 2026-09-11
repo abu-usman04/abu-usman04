@@ -2,7 +2,7 @@
 
 > founder · software engineer · open-source builder 
 
-Building [**OpenCluster**](https://github.com/open-cluster) - an open-source AI SRE for production incident investigation.
+Building [**OpenCluster**](https://docs.open-cluster.io) - an open-source AI SRE for production incident investigation.
 
 Working around **distributed systems, reliability, infrastructure, and AI agents**.
 
